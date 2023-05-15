@@ -1,2 +1,2 @@
 # DSA
-All the completed DSA questions
+All the completed DSA questions.
